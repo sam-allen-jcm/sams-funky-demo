@@ -1,0 +1,12 @@
+{
+  "name": "sams-funky-demo",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "sams-funky-demo-db",
+      "database_id": "ac0ca80a-fb9a-4046-842c-121f7e550ddd"
+    }
+  ]
+}
