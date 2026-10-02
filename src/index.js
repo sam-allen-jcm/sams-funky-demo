@@ -13,7 +13,7 @@ export default {
       + "table{border-collapse:collapse;width:100%}"
       + "th,td{text-align:left;padding:.6rem;border-bottom:1px solid #ddd}"
       + "th{background:#f4f4f4}</style></head><body>"
-      + "<h1>Sam's Funky Demo</h1>"
+      + "<h1>Sam's Funky Demo GH TEST</h1>"
       + "<p>Live from D1. " + results.length + " crew members.</p>"
       + "<table><tr><th>ID</th><th>Name</th><th>Role</th><th>Vibe</th></tr>"
       + rows
